@@ -1,0 +1,7 @@
+﻿cc69600c-a1ee-45d3-a641-61b1681e4ab6-->und\cc69600c-a1ee-45d3-a641-61b1681e4ab6
+copyinfo-->und\copyinfo
+e07de58d-0e38-4cc0-8e97-723c0fd5f3ad.0\info-->und\e07de58d-0e38-4cc0-8e97-723c0fd5f3ad.0\info
+e07de58d-0e38-4cc0-8e97-723c0fd5f3ad.0\text-->ObjectModule.bsl
+root-->und\root
+version-->und\version
+versions-->und\versions
